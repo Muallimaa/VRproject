@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: dd086c00119a64a478d97b9d96f097e2
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Baut
+    second: {fileID: 2100000, guid: edc72edbc602ddb4487d7a67c7001cba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: e4053c2d8044e1048a9e4d40782c4279, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Breket
+    second: {fileID: 2100000, guid: 24e9d57defd11904ea8ead79c2cbb7f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dudukan Baut
+    second: {fileID: 2100000, guid: c1ef0b33cf88d5c42b6925cf9acbe9f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dudukan Odu
+    second: {fileID: 2100000, guid: 602ae62808f126649aba50fe202f8f4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Input 1
+    second: {fileID: 2100000, guid: 6211400403ca86e478b18c77ed697b8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Input 2
+    second: {fileID: 2100000, guid: 0945ebf77739cb64ebae08a5d5c3dce5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Input 3
+    second: {fileID: 2100000, guid: 128a91cf05aebe7458cd67f762541a90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 04bda061727e80840a0250e3121d339e, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Baut_BaseColor
+    second: {fileID: 2800000, guid: fc97bc1371a85dc47b57320c2730fd83, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Baut_Emissive
+    second: {fileID: 2800000, guid: d8f1997f24c1b164b8d3ac5e68665693, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Baut_Metallic
+    second: {fileID: 2800000, guid: 06bff455e1b0acf4a8803fd62b7b1300, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Baut_Normal
+    second: {fileID: 2800000, guid: f0328784fa547f24b910bafbffcd5612, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Baut_Roughness
+    second: {fileID: 2800000, guid: 76e4b093092b79f4a8a5e447330c3fb8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Body_BaseColor
+    second: {fileID: 2800000, guid: ee5eafaf1e6fc8c478a478ca9a3c93b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Body_Emissive
+    second: {fileID: 2800000, guid: 93ccde4a1e5b92e4dafde7648c426f16, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Body_Metallic
+    second: {fileID: 2800000, guid: 0ceca021044d8194e95bb2a3eefc2181, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Body_Normal
+    second: {fileID: 2800000, guid: 16bd51357e5cb7e48bbc27f65e59359f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Body_Roughness
+    second: {fileID: 2800000, guid: 5728f176b4d75334b9b0edfc3069b62f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Breket_BaseColor
+    second: {fileID: 2800000, guid: 24dd728b5a66bcf4b9d7ba72e2501d46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Breket_Emissive
+    second: {fileID: 2800000, guid: afff29a72741d7c4b8fd7d6cbf3b30c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Breket_Metallic
+    second: {fileID: 2800000, guid: e2a9312ddcba1114a913968295f20d72, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Breket_Normal
+    second: {fileID: 2800000, guid: ffe155be17092214e9cf5545ee1f7e1f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Breket_Roughness
+    second: {fileID: 2800000, guid: 302acd2591e95c0479f0fa0d53e86967, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Dudukan Baut_BaseColor
+    second: {fileID: 2800000, guid: 89f2cf5d9a389f94cbc475f544619a80, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Dudukan Baut_Emissive
+    second: {fileID: 2800000, guid: 9ee392a3f2e8f4e49a75c168cd8535ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Dudukan Baut_Metallic
+    second: {fileID: 2800000, guid: aef38d0fa84444e4a949e30c8e7c992a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Dudukan Baut_Normal
+    second: {fileID: 2800000, guid: 75d0a9e1356a63f4db4f8f483874cd66, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Dudukan Baut_Roughness
+    second: {fileID: 2800000, guid: ce94e73f0e898bb43b814db40e903859, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Dudukan Odu_BaseColor
+    second: {fileID: 2800000, guid: deaa3f3d8b3a7c94496bb9c08d49a491, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Dudukan Odu_Emissive
+    second: {fileID: 2800000, guid: ae9aa5d17417a0246a86ed3e9be71235, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Dudukan Odu_Metallic
+    second: {fileID: 2800000, guid: 251956442459f4a4593610f15fefaa86, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Dudukan Odu_Normal
+    second: {fileID: 2800000, guid: 9a2e93315a7326443b35e205f1e3cfe1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Dudukan Odu_Roughness
+    second: {fileID: 2800000, guid: ba79f10af42acd7479b5d4f0f7039ff5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Input 1_BaseColor
+    second: {fileID: 2800000, guid: e96fcfe60714f694e8d69481a4902987, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Input 1_Emissive
+    second: {fileID: 2800000, guid: ba2996bd84f849f4e9eed2d58dc23970, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Input 1_Metallic
+    second: {fileID: 2800000, guid: e0e341a30dade7442b96bd8be8ac6622, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Input 1_Normal
+    second: {fileID: 2800000, guid: d001ca59682323940b27e8b9de2209a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Input 1_Roughness
+    second: {fileID: 2800000, guid: f9ef342617005ad42b700de8c1d9fe94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Input 2_BaseColor
+    second: {fileID: 2800000, guid: d04d5394e1fb44a40aaea285a5c116ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Input 2_Emissive
+    second: {fileID: 2800000, guid: 701d3bb6421a1eb4db4d18ccfd33dc5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Input 2_Metallic
+    second: {fileID: 2800000, guid: 002eb1ef546c8df40beab4acfa83bfb4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Input 2_Normal
+    second: {fileID: 2800000, guid: 13fedeec31d0caa4bb13314acbc917bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Input 2_Roughness
+    second: {fileID: 2800000, guid: f4dacb3b438298741adb6308cb570d20, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Input 3_BaseColor
+    second: {fileID: 2800000, guid: b0cc9bec88c2a7c49b6d240f05846c05, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Input 3_Emissive
+    second: {fileID: 2800000, guid: 537ca47975e3d264aa4f3c8ced180b86, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Input 3_Metallic
+    second: {fileID: 2800000, guid: fc45974d852b9c049b576848da573fe9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Input 3_Normal
+    second: {fileID: 2800000, guid: 9fd030a3bbc40e14795894beb73430b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Odu Revisi_Input 3_Roughness
+    second: {fileID: 2800000, guid: f02aad84d96fe904f9819e1e23c6dd14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tambahan Odu_DefaultMaterial_BaseColor
+    second: {fileID: 2800000, guid: 321fbaeb67b9df74c9b3d9f3d5d77a76, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tambahan Odu_DefaultMaterial_Emissive
+    second: {fileID: 2800000, guid: 6e2ffea48cd0a834e9c3945713618dfe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tambahan Odu_DefaultMaterial_Metallic
+    second: {fileID: 2800000, guid: 290db1ab8bb22d543b2ecaf451badba7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tambahan Odu_DefaultMaterial_Normal
+    second: {fileID: 2800000, guid: e22f49b0031cf9d43bbc94da1dbaa4f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tambahan Odu_DefaultMaterial_Roughness
+    second: {fileID: 2800000, guid: ddc1a691c5cd6e04eb90d9ea4ccd5e28, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

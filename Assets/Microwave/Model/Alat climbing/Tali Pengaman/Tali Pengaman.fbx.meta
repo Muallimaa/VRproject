@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: fba6783114240b64c84030150d3ef483
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 331d17b7231103646891376d815ae9a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 4709d6f8bf6c6a945b88a384dbf9eed3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: ba7f3369f9f66e64a94c27fcd50093ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 6d15563559d35b148956924e99dc8ada, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Carabiner_DefaultMaterial_BaseColor
+    second: {fileID: 2800000, guid: a0d60eac6a2965d4bb10a740a55f3aed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Carabiner_DefaultMaterial_Emissive
+    second: {fileID: 2800000, guid: 135d1f8949279a04b854fa6b49e42fd1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Carabiner_DefaultMaterial_Metallic
+    second: {fileID: 2800000, guid: 532898658ca85244ea1e4c637243d7f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Carabiner_DefaultMaterial_Normal
+    second: {fileID: 2800000, guid: d191ef352b2ccf74293eec262169a04b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Carabiner_DefaultMaterial_Roughness
+    second: {fileID: 2800000, guid: e1e7129bae7115d40b2eb628e860a533, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sambungan Tali_DefaultMaterial_BaseColor
+    second: {fileID: 2800000, guid: f07ad37a4b6572341b7e4071aada8905, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sambungan Tali_DefaultMaterial_Emissive
+    second: {fileID: 2800000, guid: e1215ff3cbaf97c45a4741e60bb1f275, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sambungan Tali_DefaultMaterial_Metallic
+    second: {fileID: 2800000, guid: 57e3c7cc664ee054fbd93e0d9d4f16b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sambungan Tali_DefaultMaterial_Normal
+    second: {fileID: 2800000, guid: 09240234c52a0584d8108fd7f708c835, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sambungan Tali_DefaultMaterial_Roughness
+    second: {fileID: 2800000, guid: 74dd1e34048e6ce479072955361afa38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tali Pengaman_DefaultMaterial_BaseColor
+    second: {fileID: 2800000, guid: 7c748b0c999011e479aa97b6b9422f37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tali Pengaman_DefaultMaterial_Emissive
+    second: {fileID: 2800000, guid: 127941c16e1142f4795e35523b90d225, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tali Pengaman_DefaultMaterial_Metallic
+    second: {fileID: 2800000, guid: 9b045e17462e8f9419efecfbf5e29906, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tali Pengaman_DefaultMaterial_Normal
+    second: {fileID: 2800000, guid: 548f8064556f1234eb0501cc65708054, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tali Pengaman_DefaultMaterial_Roughness
+    second: {fileID: 2800000, guid: 1a9e58959b6ec7f49ae27fb17f8cd72b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tali_DefaultMaterial_BaseColor
+    second: {fileID: 2800000, guid: 0099bd8bb7eb17e4389b9061a04525d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tali_DefaultMaterial_Emissive
+    second: {fileID: 2800000, guid: fa32ab3ec261d6d4a85a91eb0266b48a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tali_DefaultMaterial_Metallic
+    second: {fileID: 2800000, guid: 184774bc029353e4595dbd902aa29cb3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tali_DefaultMaterial_Normal
+    second: {fileID: 2800000, guid: 6e118ac12618f734a97e564416cd6eac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tali_DefaultMaterial_Roughness
+    second: {fileID: 2800000, guid: 6c85a7745d235ee40b23beef48076d7f, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

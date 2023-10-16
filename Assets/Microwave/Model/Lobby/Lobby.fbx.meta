@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: e64f7a14fb72db94e9a390638e678a0a
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: d2e4dff31d1d760419112f267c42097a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 052db963cbed89d48a6074cffcf259dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: f09d8197ed998fa419c90452b8cb278f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: e4a9e9ae54f818848b638ab52dc42211, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.013
+    second: {fileID: 2100000, guid: bf2234c5132469449910da1eafaf9f0d, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lobby Atap_DefaultMaterial_BaseColor
+    second: {fileID: 2800000, guid: 92177895df3072c4189850f1a6ffc375, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lobby Atap_DefaultMaterial_Emissive
+    second: {fileID: 2800000, guid: be22f9bacdcce30428da8963b7007b88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lobby Atap_DefaultMaterial_Metallic
+    second: {fileID: 2800000, guid: 006c958a994f4624bac4b67832aa03cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lobby Atap_DefaultMaterial_Normal
+    second: {fileID: 2800000, guid: 84ca1b6aea923e64689ec08e1ba34922, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lobby Atap_DefaultMaterial_Roughness
+    second: {fileID: 2800000, guid: cd40c5d9a1691794a895290db1e26752, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lobby Tembok_DefaultMaterial_BaseColor
+    second: {fileID: 2800000, guid: 9b10cdc7d89cc3244832073423717e5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lobby Tembok_DefaultMaterial_Emissive
+    second: {fileID: 2800000, guid: 50237c07c4e74434ba36dcd3f96a70a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lobby Tembok_DefaultMaterial_Metallic
+    second: {fileID: 2800000, guid: 6ec8c59e1bebfd14db766eccc0c8fd2c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lobby Tembok_DefaultMaterial_Normal
+    second: {fileID: 2800000, guid: f331b962d2eadb84cb407c7680920a4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lobby Tembok_DefaultMaterial_Roughness
+    second: {fileID: 2800000, guid: 05f79ce9afbee2c46bf0932ff34d3f1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Meja_Material.004_BaseColor
+    second: {fileID: 2800000, guid: 2696f5401d0b82846a436b5df4cc1a32, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Meja_Material.004_Emissive
+    second: {fileID: 2800000, guid: 5eefa96c14a556d47bb4fc64245cedd0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Meja_Material.004_Metallic
+    second: {fileID: 2800000, guid: 7d2ec521f61ba784b9c37c690e40d54f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Meja_Material.004_Normal
+    second: {fileID: 2800000, guid: 183d31de7a340164791c829cc9303aed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Meja_Material.004_Roughness
+    second: {fileID: 2800000, guid: f38674142e8f05e419a721b4a361b8a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pintu 3_black wood.001_BaseColor
+    second: {fileID: 2800000, guid: a77e666081b820c459bc164171539351, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pintu 3_black wood.001_Emissive
+    second: {fileID: 2800000, guid: 4d21092ddcf17994aa16375e9a46124b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pintu 3_black wood.001_Metallic
+    second: {fileID: 2800000, guid: 2d3ce072f08511544aabec5803ec4ca5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pintu 3_black wood.001_Normal
+    second: {fileID: 2800000, guid: 68a4cb10ce594fd49bffc06070ef1288, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pintu 3_black wood.001_Roughness
+    second: {fileID: 2800000, guid: 4b6553b8261e22b43886a79c8d86c20f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tanda Ruangan _DefaultMaterial_BaseColor
+    second: {fileID: 2800000, guid: 29e0f817eacf95249871a7d5caa42132, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tanda Ruangan _DefaultMaterial_Emissive
+    second: {fileID: 2800000, guid: bc87dab1c8a659d4492bfd373648d945, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tanda Ruangan _DefaultMaterial_Metallic
+    second: {fileID: 2800000, guid: 8013026974eef514e8c0e7e5904cdf66, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tanda Ruangan _DefaultMaterial_Normal
+    second: {fileID: 2800000, guid: c5d81f4effc2dfd4a8bdeb0294bbcbc0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tanda Ruangan _DefaultMaterial_Roughness
+    second: {fileID: 2800000, guid: 711ef69a79a86934d821f9889727a316, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
