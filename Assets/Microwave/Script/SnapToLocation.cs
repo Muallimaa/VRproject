@@ -22,7 +22,7 @@ public class SnapToLocation : MonoBehaviour
     //Detects when the RocketPart game object has entered the snap zone radius
     public void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject == ObjectPart)
+        if (other.gameObject.name == ObjectPart.name)
         {
             insideSnapZone = true;
             Debug.Log("TriggerOn");
@@ -34,7 +34,7 @@ public class SnapToLocation : MonoBehaviour
     //Detects when the Objectpart game object has left the snap zone radius
     public void OnTriggerExit(Collider other)
     {
-        if (other.gameObject == ObjectPart)
+        if (other.gameObject.name == ObjectPart.name)
         {
             insideSnapZone = false;
 
@@ -50,18 +50,6 @@ public class SnapToLocation : MonoBehaviour
             ObjectPart.gameObject.transform.rotation = SnapRotationReference.transform.rotation;
             Snapped = true;
         }
-        else
-        {
-                    Snapped = false;
-         }
-        /*
-        if (grabbed == true && insideSnapZone == false)
-        {
-            //ObjectPart.gameObject.transform.position = transform.position;
-            //ObjectPart.gameObject.transform.rotation = SnapRotationReference.transform.rotation;
-            Snapped = false;
-        }
-        */
     }
 
 

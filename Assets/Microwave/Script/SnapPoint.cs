@@ -5,8 +5,9 @@ using Oculus.Interaction;
 
 public class SnapPoint : MonoBehaviour
 {
+
     //Reference the snap zone collider we'll be using
-    public GameObject SnapLocation;
+    //public GameObject SnapLoction;
 
     //Reference the gme object that the snapped objects will become a part of
     public GameObject ObjectToSnap;
@@ -20,14 +21,10 @@ public class SnapPoint : MonoBehaviour
     //boolean variable used to determine if the object is currently being held by the player
     private bool grabbed;
 
-    //public GameObject chekSceneList;
-
-    public SnapToLocation snapObject;
-
     // Start is called before the first frame update
     void Start()
     {
-        //chekSceneList.SetActive(false);
+
     }
 
     // Update is called once per frame
@@ -39,31 +36,23 @@ public class SnapPoint : MonoBehaviour
 
 
         //Set objectSnapped equal to the Snapped boolean from SnapToLocation
-        objectSnapped = SnapLocation.GetComponent<SnapToLocation>().Snapped;
+        //objectSnapped = SnapLoction.GetComponent<SnapToLocation>().Snapped;
 
-        if (objectSnapped == true && grabbed == false)
+        if (objectSnapped == true)
+        {
+            GetComponent<Rigidbody>().isKinematic = true;
+            //transform.SetParent(ObjectToSnap.transform);
+            isSnapped = true;
+            transform.SetParent(ObjectToSnap.transform);
+
+        }
+
+        if (objectSnapped == false && grabbed == true)
         {
             GetComponent<Rigidbody>().isKinematic = true;
             GetComponent<Rigidbody>().useGravity = false;
-            transform.SetParent(ObjectToSnap.transform);
-            isSnapped = true;
-        }
-
-        if (grabbed == true)
-        {
-            GetComponent<Rigidbody>().isKinematic = false;
-            GetComponent<Rigidbody>().useGravity = true;
-            snapObject.Snapped = false;
-            isSnapped = false;
-
-            transform.SetParent(null); // Unparent the object
-        }
-        else if (isSnapped && !objectSnapped)
-        {
-            //GetComponent<Rigidbody>().isKinematic = false;
-            //GetComponent<Rigidbody>().useGravity = true;
-            isSnapped = false;
-            transform.SetParent(null); // Unparent the object
+            transform.SetParent(null);
         }
     }
 }
+
