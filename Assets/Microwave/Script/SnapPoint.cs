@@ -5,7 +5,6 @@ using Oculus.Interaction;
 
 public class SnapPoint : MonoBehaviour
 {
-
     //Reference the snap zone collider we'll be using
     //public GameObject SnapLoction;
 
@@ -55,4 +54,3 @@ public class SnapPoint : MonoBehaviour
         }
     }
 }
-

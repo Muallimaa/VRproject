@@ -13,7 +13,7 @@ public class ObjectActiveAll : MonoBehaviour
     {
         // Periksa apakah semua objek telah diaktifkan
         bool allActivated = true;
-        //bool offCanva = false;
+        bool offCanva = false;
         foreach (GameObject obj in objectsToActivate)
         {
             if (!obj.activeSelf)
