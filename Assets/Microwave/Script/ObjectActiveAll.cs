@@ -7,7 +7,7 @@ public class ObjectActiveAll : MonoBehaviour
     public GameObject[] objectsToActivate; // Objek yang akan diaktifkan
     public GameObject buttonToShow; // Tombol yang akan ditampilkan
     public GameObject infocanva;
-    public GameObject toggleCanva;
+    //public GameObject toggleCanva;
 
     private void Update()
     {

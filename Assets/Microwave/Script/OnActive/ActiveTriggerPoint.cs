@@ -6,6 +6,7 @@ public class ActiveTriggerPoint : MonoBehaviour
 {
     public GameObject pointOnTrigger;
     public bool activePoint;
+    public GameObject NextActive;
 
     void Start()
     {
